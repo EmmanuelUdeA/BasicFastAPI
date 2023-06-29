@@ -1,0 +1,7 @@
+#Dependencias para el server
+
+fastapi
+python-jose
+passlib
+pymongo
+python-multipart
